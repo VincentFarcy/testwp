@@ -1,0 +1,8 @@
+wp-config.php
+wp/
+content/languages/*
+content/plugins/*
+content/themes/*
+content/upgrade/*
+content/debug.log
+/vendor/
